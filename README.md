@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Spring MVC, Maven, Rest Services**
 
-- 📫 How to reach me **aditya090shrivastava@gmail.com**
+- 📫 How to reach me **adityashrivastava105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
